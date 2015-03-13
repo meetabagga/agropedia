@@ -1,0 +1,1 @@
+Agropedia  is an agriculture knowledge repository of universal meta models and localized content for a variety of users with appropriate interfaces built in collaborative mode in multiple languages.
